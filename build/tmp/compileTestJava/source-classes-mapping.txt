@@ -1,0 +1,2 @@
+com/ncr/test/pyramid/solver/YourSolverTest.java
+ com.ncr.test.pyramid.solver.YourSolverTest

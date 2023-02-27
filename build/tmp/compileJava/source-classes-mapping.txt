@@ -1,0 +1,18 @@
+com/ncr/test/pyramid/data/PyramidGenerator.java
+ com.ncr.test.pyramid.data.PyramidGenerator
+com/ncr/test/pyramid/solver/PyramidSolver.java
+ com.ncr.test.pyramid.solver.PyramidSolver
+com/ncr/test/pyramid/utils/Util.java
+ com.ncr.test.pyramid.utils.Util
+com/ncr/test/pyramid/data/impl/RandomPyramidGenerator.java
+ com.ncr.test.pyramid.data.impl.RandomPyramidGenerator
+com/ncr/test/pyramid/data/Pyramid.java
+ com.ncr.test.pyramid.data.Pyramid
+com/ncr/test/pyramid/solver/impl/NaivePyramidSolver.java
+ com.ncr.test.pyramid.solver.impl.NaivePyramidSolver
+com/ncr/test/pyramid/solver/impl/YourSolver.java
+ com.ncr.test.pyramid.solver.impl.YourSolver
+com/ncr/test/pyramid/YourProgram.java
+ com.ncr.test.pyramid.YourProgram
+com/ncr/test/pyramid/OurProgram.java
+ com.ncr.test.pyramid.OurProgram

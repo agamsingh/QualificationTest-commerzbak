@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ncr.test.pyramid.solver.YourSolverTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-27T05:17:42" hostname="BLRETV-32ZWMD6M.local" time="0.007">
+  <properties/>
+  <testcase name="solverHandlesRandomData" classname="com.ncr.test.pyramid.solver.YourSolverTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
